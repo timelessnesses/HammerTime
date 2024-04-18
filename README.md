@@ -110,7 +110,7 @@ English and Hungarian translations have been included, so no translators will be
   - [Liggliluff](https://github.com/Liggliluff)
   - [Patrick Tobias](https://crowdin.com/profile/patricktobias)
   - [tunket](https://crowdin.com/profile/tunket)
-- 🇹🇭 Thai: [Rukchad Wongprayoon](https://crowdin.com/profile/unpredictable)
+- 🇹🇭 Thai: [Rukchad Wongprayoon](https://github.com/timelessnesses)
 - 🇹🇷 Turkish: [tututuana](https://github.com/tututuana)
 - 🇺🇦 Ukrainian
   - [enky](https://crowdin.com/profile/enky)
